@@ -1,17 +1,17 @@
 # 🎀 Emmanuel Nosa Evbuomwan 
 
-**🏗️ Engineer | 🤖 Agentic & Global-scale Systems Architecture | 🎨 AI, Product & Design**
+**🏗️ Engineer | 🤖 Agentic Systems | 🌐 Global-Scale Architecture | 🎨 AI, Product & Design**
 
 ---
 
 ## 👋 Me
 
-I'm a seasoned engineer building at the intersection of AI, product, and systems design. I 
-architect scalable backends, design intelligent systems, and think deeply about how technology 
-solves real problems. I move fluidly between engineering, design, and product 
-strategy—believing that the best solutions emerge when these disciplines work together.
+I'm a seasoned Engineer building at the intersection of AI, product, and systems design. 
 
-**Focus**: low-latency systems, microservices architecture, agentic systems, and the 
+I design and architect scalable backends, intelligent systems, and think deeply about how technology 
+solves real problems.
+
+**Focus**: low-latency systems, microservices architecture, agentic ai systems, and the 
 human-centered design of complex software.
 
 ---

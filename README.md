@@ -43,9 +43,9 @@ human-centered design of complex software.
 
 ## 💻 Languages & Tools
 
-**Primary**: Python • TypeScript • Rust • Go • Java  
-**Design**: Figma • System design thinking  
-**Infrastructure**: Microservices • Distributed systems • Cloud platforms
+**Primary**: 🐍 Python • 🔷 TypeScript • 🦀 Rust • 🐹 Go • ☕ Java  
+**Design**: 🎨 Figma • 🧠 System design thinking  
+**Infrastructure**: 🔀 Microservices • 🌐 Distributed systems • ☁️ Cloud platforms
 
 ---
 
@@ -77,4 +77,3 @@ Open to collaborating on AI systems, backend architecture, product challenges, o
 building teams that value both engineering rigor and design thinking.
 
 ---
-

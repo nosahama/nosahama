@@ -1,43 +1,35 @@
 # 🎀 Emmanuel Nosa Evbuomwan 
 
-**🏗️ Engineer | 🤖 Agentic Systems | 🌐 Global-Scale Architecture | 🎨 AI, Product & Design**
+**🏗️ Engineer | 🌐 Global-Scale Architecture | 🤖 AI & Agentic Systems | 🎨 Product mindset**
 
 ---
 
 ## 👋 Me
 
-I'm a seasoned Engineer building at the intersection of AI, product, and systems design. 
+I'm a seasoned Engineer building at the intersection of AI, Product, and Systems Design. 
 
-I design and architect scalable backends, intelligent systems, and think deeply about how technology 
-solves real problems.
-
-**Focus**: low-latency systems, microservices architecture, agentic ai systems, and the 
-human-centered design of complex software.
+I design and architect scalable, resilient and intelligent systems; thinking deeply about how technology 
+solves real problems using a product, data and customer-centric approach, learning from experimentation, rapid iteration, telemetry and customer feedback. 
 
 ---
 
 ## 🛠️ Core Skills
 
-**Systems & Infrastructure**
-- 🔀 Microservices architecture and distributed systems
-- ⚡ Low-latency, high-throughput backend design
-- 💾 Database optimization, caching, performance engineering
-- ☁️ Cloud infrastructure and DevOps
+**Systems, Infrastructure & Full-Stack Development**
+- 🔀 Microservices Architecture, Distributed Systems & Diagramming
+- ⚡ Low-latency, High-Throughput Backend Design
+- 💾 Database Optimization, Caching, Performance Engineering
+- ☁️ Cloud Infrastructure and DevOps
+- 🌉 Design Patterns, Domain Driven Design (DDD), Test Driven Design (TDD)
 
-**AI & Intelligent Systems**
+**AI & Agentic Systems**
 - 🧠 LLM integration and agentic architectures
 - 🤝 Multi-agent orchestration and reasoning frameworks
 - 🎯 AI product design and human-AI interaction
 
-**Full-Stack Development**
-- 🔧 Backend: Python, Go, Rust, Java, TypeScript
-- 🎭 Frontend: React, modern web standards
-- 🔌 API design and system integration
-
 **Product & Design**
-- 📊 End-to-end product thinking and strategy
+- 📊 End-to-end product thinking, strategy; bridging design intent and technical implementation
 - 🎨 Figma prototyping and design systems
-- 🌉 Bridging design intent and technical implementation
 
 ---
 
@@ -45,7 +37,7 @@ human-centered design of complex software.
 
 **Primary**: 🐍 Python • 🔷 TypeScript • 🦀 Rust • 🐹 Go • ☕ Java  
 **Design**: 🎨 Figma • 🧠 System design thinking  
-**Infrastructure**: 🔀 Microservices • 🌐 Distributed systems • ☁️ Cloud platforms
+**Infrastructure**: 🔀 Microservices • 🔌 API design • 🌐 Distributed systems • ☁️ Cloud platforms
 
 ---
 
